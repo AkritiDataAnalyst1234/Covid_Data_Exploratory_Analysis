@@ -43,6 +43,8 @@ On analysing the data we get to know many new_tests and new_vaccinations entries
 - **Location –>** In location column country name is given 
 But in some records continent name is given in location column so we used filter (condition in where clause) to exclude continents from location column.
 
+
+
 **Top 10 countries having maximum Corona Cases**
 1.	United States
 2.	India
@@ -54,6 +56,8 @@ But in some records continent name is given in location column so we used filter
 8.	Italy
 9.	Spain
 10.	Germany
+
+
 
 **Top 10 countries having maximum deaths** 
 1.	United States
@@ -67,23 +71,38 @@ But in some records continent name is given in location column so we used filter
 9.	Germany
 10.	Spain
 
+
 **Continent wise Corona Cases**
+
 Europe                   44863478
+
 Asia	                    39526308
+
 North America	           37529488
+
 South America	           24878216
+
 Africa	                  4557699
+
 Oceania	                 43570
+
+
 
 
 **Continent wise total Deaths**
 
 Europe	              1016750
+
 North America        847942
+
 South America	       672415
+
 Asia	                520286
+
 Africa	              121784
+
 Oceania	             1046
+
 
 
 **Summary**
