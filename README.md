@@ -9,6 +9,7 @@ Sql functions used to get insights-
 -	Group by
 -	limit
 
+<br>
 
 **Findings or Insights**
 
@@ -59,7 +60,7 @@ But in some records continent name is given in location column so we used filter
 10.	Germany
 
 
-<br><br>
+<br>
 
 **Top 10 countries having maximum deaths** 
 1.	United States
@@ -74,7 +75,7 @@ But in some records continent name is given in location column so we used filter
 10.	Spain
 
 
-<br><br><br>
+<br>
 
 **Continent wise Corona Cases**
 
@@ -93,7 +94,7 @@ Oceania	                 43570
 
 
 
-
+<br>
 
 **Continent wise total Deaths**
 
@@ -111,7 +112,7 @@ Oceania	             1046
 
 
 
-
+<br>
 
 **Summary**
 -	Country with highest Covid Cases in the World with counts 32346971-- US 
