@@ -1,6 +1,7 @@
 # COVID-19 Worldwide Data Analysis using SQL
 
 **Findings or Insights**
+
 On analysing the data we get to know new_cases column and new_deaths column lot of data is missing so we are using total_cases column and total_deaths column for analysing purpose.
 
 **Column values**
