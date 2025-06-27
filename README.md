@@ -1,6 +1,6 @@
 # COVID-19 Worldwide Data Analysis using SQL
 
-**Column values**
+<u>**Column values**<u>
 new_cases ->  total cases on that day
  .i.e. cases on the Date given in the corresponding column.
 
