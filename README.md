@@ -45,6 +45,7 @@ But in some records continent name is given in location column so we used filter
 
 
 
+
 **Top 10 countries having maximum Corona Cases**
 1.	United States
 2.	India
@@ -59,6 +60,7 @@ But in some records continent name is given in location column so we used filter
 
 
 
+
 **Top 10 countries having maximum deaths** 
 1.	United States
 2.	Brazil
@@ -70,6 +72,8 @@ But in some records continent name is given in location column so we used filter
 8.	France
 9.	Germany
 10.	Spain
+
+
 
 
 **Continent wise Corona Cases**
@@ -89,6 +93,8 @@ Oceania	                 43570
 
 
 
+
+
 **Continent wise total Deaths**
 
 Europe	              1016750
@@ -102,6 +108,8 @@ Asia	                520286
 Africa	              121784
 
 Oceania	             1046
+
+
 
 
 
