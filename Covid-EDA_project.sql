@@ -68,6 +68,24 @@ order by location;
 
 
 
+
+/*****************************************************************
+*  top 10 countries having maximum corona cases                  *
+******************************************************************/ 
+
+
+select 
+	location,
+	max(total_cases) total_cases
+from covid_data
+where continent is not null
+and total_cases is not null
+group by location
+order by total_cases desc
+limit 10 ;
+
+
+
 /*********************************************
 *    death percentage based on total cases   *
 *********************************************/
