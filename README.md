@@ -44,7 +44,7 @@ On analysing the data we get to know many new_tests and new_vaccinations entries
 But in some records continent name is given in location column so we used filter (condition in where clause) to exclude continents from location column.
 
 
-
+<br>
 
 **Top 10 countries having maximum Corona Cases**
 1.	United States
@@ -59,7 +59,7 @@ But in some records continent name is given in location column so we used filter
 10.	Germany
 
 
-
+<br><br>
 
 **Top 10 countries having maximum deaths** 
 1.	United States
@@ -74,7 +74,7 @@ But in some records continent name is given in location column so we used filter
 10.	Spain
 
 
-
+<br><br><br>
 
 **Continent wise Corona Cases**
 
