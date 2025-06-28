@@ -79,7 +79,9 @@ But in some records continent name is given in location column so we used filter
 
 **Continent wise Corona Cases**
 
-Europe                   44863478
+**|Continent       |    Cases     |**
+|------------------|--------------|
+|Europe            |      44863478|
 
 Asia	                    39526308
 
