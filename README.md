@@ -79,19 +79,18 @@ But in some records continent name is given in location column so we used filter
 
 **Continent wise Corona Cases**
 
-**|Continent       |    Cases     |**
-|------------------|--------------|
-|Europe            |      44863478|
 
-Asia	                    39526308
+Europe            ---->      44863478
 
-North America	           37529488
+Asia	             ---->       39526308
 
-South America	           24878216
+North America	    ---->       37529488
 
-Africa	                  4557699
+South America	    ---->       24878216
 
-Oceania	                 43570
+Africa	          ---->        4557699
+
+Oceania	         ----->        43570
 
 
 
@@ -100,17 +99,17 @@ Oceania	                 43570
 
 **Continent wise total Deaths**
 
-Europe	              1016750
+Europe	        ---->      1016750
 
-North America        847942
+North America  ---->      847942
 
-South America	       672415
+South America	  ---->     672415
 
-Asia	                520286
+Asia	           ---->     520286
 
-Africa	              121784
+Africa	         ---->     121784
 
-Oceania	             1046
+Oceania	       ---->      1046
 
 
 
