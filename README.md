@@ -1,4 +1,4 @@
-# COVID-19 Worldwide Data Analysis using SQL
+# COVID-19 Global Impact Analysis
 
 This project focuses on analyzing data related to the COVID-19 pandemic using SQL queries.Executed complex SQL queries to analyze trends in testing, vaccination,  infection rates and deaths across countries and continents.
 Sql functions used to get insights-
@@ -15,7 +15,7 @@ Sql functions used to get insights-
 
 On analysing the data we get to know many new_tests and new_vaccinations entries are null, but total_tests and total_vaccinations entries are complete and can be used for analysing the trends.
 
-**Column values**
+**Dataset Structure**
 
 - **new_cases ->**  new cases on that particular day
  .i.e. cases on the Date given in the corresponding column.
