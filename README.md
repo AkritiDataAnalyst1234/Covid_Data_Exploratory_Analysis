@@ -74,8 +74,8 @@ But in some records continent name is given in location column so we used filter
 **🌍 Global Analysis:**
 
 -	Total COVID Cases vs Total Deaths and Total Cases vs Total Population
-  -	Across the World
-  -  Across Asia
+  - Across the World
+  - Across Asia
   -	In India
   -	Across Continents
 
@@ -107,7 +107,7 @@ Developed visualizations using Matplotlib, Seaborn, and Plotly:
 
   - Cases, Deaths, Tests, Vaccinations per Continent
 
--Asia-Focused Analysis:
+- Asia-Focused Analysis:
 
   - Top 20 Countries in Asia: Cases, Deaths, Tests, Vaccinations
 
