@@ -1,6 +1,6 @@
 # COVID-19 Global Impact Analysis
 
-This project focuses on analyzing data related to the COVID-19 pandemic using SQL queries.Executed complex SQL queries to analyze trends in testing, vaccination,  infection rates and deaths across countries and continents.
+This project provides a comprehensive analysis of global and regional COVID-19 trends using SQL and Python. The data was explored to uncover critical insights related to infection rates, death rates, testing, and vaccination coverage across countries and continents.
 Sql functions used to get insights-
 -	CTE,
 -	windows function,
@@ -46,88 +46,6 @@ But in some records continent name is given in location column so we used filter
 
 
 <br>
-
-**Top 10 countries having maximum Corona Cases**
-1.	United States
-2.	India
-3.	Brazil
-4.	France
-5.	Turkey
-6.	Russia
-7.	United Kingdom
-8.	Italy
-9.	Spain
-10.	Germany
-
-
-<br>
-
-**Top 10 countries having maximum deaths** 
-1.	United States
-2.	Brazil
-3.	Mexico
-4.	India
-5.	United Kingdom
-6.	Italy
-7.	Russia
-8.	France
-9.	Germany
-10.	Spain
-
-
-<br>
-
-**Continent wise Corona Cases**
-
-
-Europe            ---->      44863478
-
-Asia	             ---->       39526308
-
-North America	    ---->       37529488
-
-South America	    ---->       24878216
-
-Africa	          ---->        4557699
-
-Oceania	         ----->        43570
-
-
-
-
-<br>
-
-**Continent wise total Deaths**
-
-Europe	        ---->      1016750
-
-North America  ---->      847942
-
-South America	  ---->     672415
-
-Asia	           ---->     520286
-
-Africa	         ---->     121784
-
-Oceania	       ---->      1046
-
-
-
-<br>
-
-**Summary**
--	Country with highest Covid Cases in the World with counts 32346971-- US 
--	Country with highest  Death Cases in the World with counts 576232 -- US 
--	Continent with highest Covid Cases with counts 44863478-- Europe
--	Continent with lowest Covid Cases with counts 43570 -- Oceania 
--	Continent with highest Death Cases with counts 1016750-- Europe
--	Continent with lowest Death Cases with counts 1046 – Oceania
--	"Andorra" is the country with highest covid case percentage based on population
-with percentage of 17.12%
--	Top 3 countries with highest vaccinations are China followed by US followed by India.
-
-🦠 COVID-19 Data Analysis Project
-This project provides a comprehensive analysis of global and regional COVID-19 trends using SQL and Python. The data was explored to uncover critical insights related to case counts, death rates, testing, and vaccination coverage across countries and continents.
 
 📌 Objectives
 Understand the spread and impact of COVID-19 globally.
