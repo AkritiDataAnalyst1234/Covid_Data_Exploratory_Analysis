@@ -126,3 +126,96 @@ Oceania	       ---->      1046
 with percentage of 17.12%
 -	Top 3 countries with highest vaccinations are China followed by US followed by India.
 
+🦠 COVID-19 Data Analysis Project
+This project provides a comprehensive analysis of global and regional COVID-19 trends using SQL and Python. The data was explored to uncover critical insights related to case counts, death rates, testing, and vaccination coverage across countries and continents.
+
+📌 Objectives
+Understand the spread and impact of COVID-19 globally.
+
+Identify the most affected countries in terms of cases and deaths.
+
+Analyze vaccination trends and their relation to population and case counts.
+
+Visualize key trends to enhance stakeholder communication.
+
+🛠 Tools & Technologies Used
+SQL (PostgreSQL/BigQuery/Any): Data querying and transformation
+
+Python (Pandas, Matplotlib, Seaborn, Plotly): Data visualization
+
+Jupyter Notebook: Analysis execution and presentation
+
+📊 SQL-Based Analysis
+Key queries performed using GROUP BY, CTE, JOIN, WINDOW FUNCTIONS, and AGGREGATE FUNCTIONS:
+
+🌍 Global Analysis:
+
+Total COVID Cases vs Total Deaths by Country
+
+Top 10 Countries with Maximum COVID Cases
+
+Death Percentage based on:
+
+Total Cases
+
+Total Population
+
+Countries with Highest:
+
+COVID Cases
+
+Death Cases
+
+🇮🇳 India-Specific Analysis:
+
+Daily COVID Case % and Death % based on Population
+
+Monthly Case and Death Trends
+
+🌐 Comparative Analysis:
+
+Top 20 Countries with Highest Death Counts using:
+
+ROW_NUMBER() with CTE
+
+GROUP BY
+
+COVID Cases vs Vaccination in Asia
+
+Total Population vs Total Vaccination:
+
+Across the World
+
+Across India
+
+Vaccination % based on Population:
+
+Globally
+
+Across Asia
+
+📈 Python-Based Visualizations
+Developed visualizations using Matplotlib, Seaborn, and Plotly:
+
+Top 20 Countries (Worldwide):
+
+Maximum Cases, Deaths, Tests, Vaccinations (Bar Charts & Pie Charts)
+
+Continent-Level Comparisons:
+
+Cases, Deaths, Tests, Vaccinations per Continent
+
+Asia-Focused Analysis:
+
+Top 20 Countries in Asia: Cases, Deaths, Tests, Vaccinations
+
+Time-Series Line Charts:
+
+Monthly Trends of Cases and Deaths in Asia and India
+
+✅ Key Insights
+Identified countries with the highest risk and fatality rates.
+
+Correlated vaccination coverage with case trends.
+
+Provided visual context to facilitate strategic decision-making.
