@@ -47,67 +47,53 @@ But in some records continent name is given in location column so we used filter
 
 <br>
 
-📌 Objectives
-•	Understand the spread and impact of COVID-19 globally and regionally.
-•	Identify the most affected countries in terms of cases and deaths.
-•	Analyze tests and vaccination trends.
+**📌 Objectives**
+-	Understand the spread and impact of COVID-19 globally and regionally.
+-	Identify the most affected countries in terms of cases and deaths.
+-	Analyze tests and vaccination trends.
 
 
-🛠 Tools & Technologies Used
-SQL (PostgreSQL/BigQuery/Any): Data querying and transformation
+**🛠 Tools & Technologies Used**
+<br>
+**SQL (PostgreSQL):** Data querying and transformation
 
-Python (Pandas, Matplotlib, Seaborn, Plotly): Data visualization
+**Python (Pandas, Matplotlib, Seaborn):** Data visualization
 
-Jupyter Notebook: Analysis execution and presentation
+**Jupyter Notebook:** Analysis execution and presentation
 
-📊 SQL-Based Analysis
-Key queries performed using GROUP BY, CTE, JOIN, WINDOW FUNCTIONS, and AGGREGATE FUNCTIONS:
+**📊 SQL-Based Analysis**
+Key queries performed using -
+-	CTE,
+-	windows function,
+-	subqueries,
+-	Joins
+-	Group by
+-	limit
 
-🌍 Global Analysis:
 
-Total COVID Cases vs Total Deaths by Country
 
-Top 10 Countries with Maximum COVID Cases
+**	🌍 Global Analysis:**
+o	Total COVID Cases vs Total Deaths and Total Cases vs Total Population
+	Across the World
+	Across Asia
+	In India
+	Across Continents
 
-Death Percentage based on:
+o	Top 10 Countries with Maximum COVID Cases/Deaths/Tests/Vaccinations
+o	Death Percentage based on:
+	Total Cases
+	Total Population
+o	Countries with Highest:
+	COVID Cases
+	Death Cases
+	Tests
+	Vaccinations
+o	Total COVID Cases vs Total Vaccinations and Total Vaccinations vs Total Population
+	Across the World
+	Across Asia
+	In India
+	Across Continents
 
-Total Cases
-
-Total Population
-
-Countries with Highest:
-
-COVID Cases
-
-Death Cases
-
-🇮🇳 India-Specific Analysis:
-
-Daily COVID Case % and Death % based on Population
-
-Monthly Case and Death Trends
-
-🌐 Comparative Analysis:
-
-Top 20 Countries with Highest Death Counts using:
-
-ROW_NUMBER() with CTE
-
-GROUP BY
-
-COVID Cases vs Vaccination in Asia
-
-Total Population vs Total Vaccination:
-
-Across the World
-
-Across India
-
-Vaccination % based on Population:
-
-Globally
-
-Across Asia
 
 📈 Python-Based Visualizations
 Developed visualizations using Matplotlib, Seaborn, and Plotly:
