@@ -9,9 +9,11 @@ This project provides a comprehensive analysis of global and regional COVID-19 t
 -	Identify the most affected countries in terms of cases and deaths.
 -	Analyze tests and vaccination trends.
 
+<br>
 
 **🛠 Tools & Technologies Used**
 <br>
+
 **SQL (PostgreSQL):** Data querying and transformation
 
 **Python (Pandas, Matplotlib, Seaborn):** Data visualization
@@ -19,6 +21,7 @@ This project provides a comprehensive analysis of global and regional COVID-19 t
 **Jupyter Notebook:** Analysis execution and presentation
 
 <br>
+
 **📊 SQL-Based Analysis**
 Key queries performed using -
 -	CTE,
@@ -68,51 +71,55 @@ But in some records continent name is given in location column so we used filter
 <br><br>
 
 
-**	🌍 Global Analysis:**
+**🌍 Global Analysis:**
+
 -	Total COVID Cases vs Total Deaths and Total Cases vs Total Population
- -	Across the World
- -  Across Asia
- -	In India
- -	Across Continents
+  -	Across the World
+  -  Across Asia
+  -	In India
+  -	Across Continents
 
 -	Top 10 Countries with Maximum COVID Cases/Deaths/Tests/Vaccinations
 -	Death Percentage based on:
- -	Total Cases
- -	Total Population
+  -	Total Cases
+  -	Total Population
 -	Countries with Highest:
- -	COVID Cases
- -	Death Cases
- -	Tests
- -	Vaccinations
+  -	COVID Cases
+  -	Death Cases
+  -	Tests
+  -	Vaccinations
 -	Total COVID Cases vs Total Vaccinations and Total Vaccinations vs Total Population
- -	Across the World
- -	Across Asia
- -	In India
- -	Across Continents
+  -	Across the World
+  -	Across Asia
+  -	In India
+  -	Across Continents
 
+<br>
 
-📈 Python-Based Visualizations
+**📈 Python-Based Visualizations**
 Developed visualizations using Matplotlib, Seaborn, and Plotly:
 
-Top 20 Countries (Worldwide):
+- Top 20 Countries (Worldwide):
 
-Maximum Cases, Deaths, Tests, Vaccinations (Bar Charts & Pie Charts)
+  - Maximum Cases, Deaths, Tests, Vaccinations (Bar Charts & Pie Charts)
 
-Continent-Level Comparisons:
+- Continent-Level Comparisons:
 
-Cases, Deaths, Tests, Vaccinations per Continent
+  - Cases, Deaths, Tests, Vaccinations per Continent
 
-Asia-Focused Analysis:
+-Asia-Focused Analysis:
 
-Top 20 Countries in Asia: Cases, Deaths, Tests, Vaccinations
+  - Top 20 Countries in Asia: Cases, Deaths, Tests, Vaccinations
 
-Time-Series Line Charts:
+- Time-Series Line Charts:
 
-Monthly Trends of Cases and Deaths in Asia and India
+  - Monthly Trends of Cases and Deaths in Asia and India
 
-✅ Key Insights
-Identified countries with the highest risk and fatality rates.
+<br>
 
-Correlated vaccination coverage with case trends.
+**✅ Key Insights**
+- Identified countries with the highest risk and fatality rates.
 
-Provided visual context to facilitate strategic decision-making.
+- Correlated vaccination coverage with case trends.
+
+- Provided visual context to facilitate strategic decision-making.
