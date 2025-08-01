@@ -85,14 +85,13 @@ But in some records continent name is given in location column so we used filter
 - Death Percentage based on:
   - Total Cases
   -	Total Population
- <br>
--	Countries with Highest:
-  -	COVID Cases
-  -	Death Cases
-  -	Tests
-  -	Vaccinations
--	Total COVID Cases vs Total Vaccinations and Total Vaccinations vs Total Population
-  -	Across the World
+- Countries with Highest:
+  - COVID Cases
+  - Death Cases
+  - Tests
+  - Vaccinations
+- Total COVID Cases vs Total Vaccinations and Total Vaccinations vs Total Population
+  - Across the World
   -	Across Asia
   -	In India
   -	Across Continents
