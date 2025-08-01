@@ -48,13 +48,10 @@ But in some records continent name is given in location column so we used filter
 <br>
 
 📌 Objectives
-Understand the spread and impact of COVID-19 globally.
+•	Understand the spread and impact of COVID-19 globally and regionally.
+•	Identify the most affected countries in terms of cases and deaths.
+•	Analyze tests and vaccination trends.
 
-Identify the most affected countries in terms of cases and deaths.
-
-Analyze vaccination trends and their relation to population and case counts.
-
-Visualize key trends to enhance stakeholder communication.
 
 🛠 Tools & Technologies Used
 SQL (PostgreSQL/BigQuery/Any): Data querying and transformation
