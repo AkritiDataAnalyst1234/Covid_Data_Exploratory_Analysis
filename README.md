@@ -73,16 +73,19 @@ But in some records continent name is given in location column so we used filter
 
 **🌍 Global Analysis:**
 
--	Total COVID Cases vs Total Deaths and Total Cases vs Total Population
+- Total COVID Cases vs Total Deaths and Total Cases vs Total Population
   - Across the World
   - Across Asia
-  -	In India
-  -	Across Continents
+  - In India
+  - Across Continents
 
--	Top 10 Countries with Maximum COVID Cases/Deaths/Tests/Vaccinations
--	Death Percentage based on:
-  -	Total Cases
+<br>
+
+- Top 10 Countries with Maximum COVID Cases/Deaths/Tests/Vaccinations
+- Death Percentage based on:
+  - Total Cases
   -	Total Population
+ <br>
 -	Countries with Highest:
   -	COVID Cases
   -	Death Cases
